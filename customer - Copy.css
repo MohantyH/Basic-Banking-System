@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&display=swap');
+
+body{
+    /* font-family: 'Roboto', sans-serif; */
+    width: 100%;
+    height: auto;
+    min-height: 750px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    background-image: url(WPR-1097-0323-Thumbnail.jpg);
+
+
+    
+
+}
+ 
+
+.my-info{
+    background-color: rgb(240, 250, 255);
+    margin-top: 120px;
+    margin-bottom: 40px;
+    margin-left: 29vw;
+    margin-right: 29vw;
+    padding: 8px;
+    font-family: 'Castoro Titling', cursive;
+    font-size: xx-large;
+    color: rgba(0, 102, 255, 0.895);
+    border:1px solid black;
+    border-radius: 14px;
+    -webkit-box-shadow: 14px 17px 39px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 14px 17px 39px 0px rgba(0,0,0,0.75);
+box-shadow: 14px 17px 39px 0px rgba(0,0,0,0.75);
+    
+}
+.button{
+
+    padding-top: 6px;
+    padding-bottom: 3px;
+}
+.btn-info{
+
+    background-color:rgb(41, 63, 228)!important;
+    color: #ffffffe8!important;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgba(6, 133, 165, 0.461)!important;
+}
+
+.cus-tab{
+    padding-top: 30px;
+    padding-bottom: 120px;
+}
+
+footer{
+    margin-bottom: -24px;
+    padding-bottom: 20px;
+    background-color: rgba(23, 30, 80, 0.562);
+    color: rgba(252, 240, 255, 0.247);
+    
+ }
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size:large;
+    font-weight: bold;
+    
+}
+
+ a:hover{
+    color: aliceblue;
+ }
+
+ .copyright{
+    text-align: center;
+   
+ }
